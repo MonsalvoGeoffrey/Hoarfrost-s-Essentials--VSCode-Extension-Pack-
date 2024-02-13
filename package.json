@@ -3,6 +3,8 @@
     "displayName": "Hoarfrost's Essentials",
     "description": "",
     "version": "0.0.1",
+    "repository": "https://github.com/MonsalvoGeoffrey/Hoarfrost-s-Essentials--VSCode-Extension-Pack-",
+    "publisher": "HoarfrostTrickle",
     "engines": {
         "vscode": "^1.86.0"
     },
