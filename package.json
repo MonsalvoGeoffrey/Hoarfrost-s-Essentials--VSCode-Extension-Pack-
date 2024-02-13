@@ -1,0 +1,32 @@
+{
+    "name": "hoarfrost-s-essentials",
+    "displayName": "Hoarfrost's Essentials",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.86.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "formulahendry.auto-rename-tag",
+        "aaron-bond.better-comments",
+        "streetsidesoftware.code-spell-checker",
+        "usernamehw.errorlens",
+        "mhutchie.git-graph",
+        "nhoizey.gremlins",
+        "anteprimorac.html-end-tag-labels",
+        "kisstkondoros.vscode-gutter-preview",
+        "oderwat.indent-rainbow",
+        "mechatroner.rainbow-csv",
+        "cobaltblu27.rainbow-highlighter",
+        "yatki.vscode-surround",
+        "Gruntfuggly.todo-tree",
+        "peterfh.linesinfostatusbar",
+        "shardulm94.trailing-spaces",
+        "vscodevim.vim",
+        "AndenetAlexander.vim-cheatsheet",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
