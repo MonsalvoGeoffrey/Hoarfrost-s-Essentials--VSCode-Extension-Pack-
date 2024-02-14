@@ -12,13 +12,10 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "formulahendry.auto-rename-tag",
         "aaron-bond.better-comments",
-        "streetsidesoftware.code-spell-checker",
         "usernamehw.errorlens",
         "mhutchie.git-graph",
         "nhoizey.gremlins",
-        "anteprimorac.html-end-tag-labels",
         "kisstkondoros.vscode-gutter-preview",
         "oderwat.indent-rainbow",
         "mechatroner.rainbow-csv",
